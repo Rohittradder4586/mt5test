@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# IFX Marketing
+Sitemap: https://www.ifxmarketing.com/sitemap.xml
